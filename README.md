@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Sajfan
 - 👀 I’m interested in development
-- 🌱 I’m currently learning React JS and React Native
 - 📫 Reach me in here
